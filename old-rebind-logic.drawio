@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Search Logic" id="zUeNjrl0LJf6a5AKmF9z">
-        <mxGraphModel dx="1703" dy="3318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+        <mxGraphModel dx="3643" dy="4029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -331,8 +331,8 @@
             </root>
         </mxGraphModel>
     </diagram>
-    <diagram id="tfndQVDsRAWH9j0kQ9Ns" name="Page-2">
-        <mxGraphModel dx="768" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <diagram id="tfndQVDsRAWH9j0kQ9Ns" name="Organizer()">
+        <mxGraphModel dx="1536" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
