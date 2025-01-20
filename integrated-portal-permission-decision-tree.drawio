@@ -284,12 +284,6 @@
         <mxCell id="GeK2E0vcMYUvxhaoGY6n-1" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Allow&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;TESTING&lt;/b&gt;&amp;nbsp;&lt;i&gt;Read&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=left;" parent="3dLhYdu3cuJutTxXhPSu-137" vertex="1">
           <mxGeometry x="61.40132919731602" y="293.0021276595744" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3dLhYdu3cuJutTxXhPSu-155" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="1436" as="sourcePoint" />
-            <mxPoint x="120" y="896" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3dLhYdu3cuJutTxXhPSu-156" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="829.5" y="896" as="sourcePoint" />
