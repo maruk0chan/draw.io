@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6" pages="2">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="3183" dy="1281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2662" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
             <mxPoint x="239.5" y="735" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ggczQ8R7zVc78r3qwQfg-11" value="&lt;span&gt;has clientId user role?&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- iamsmart.portal_online_service_client_user_role&lt;/span&gt;&lt;/div&gt;- iamsmart.v_portal_permission_case_ref&lt;br&gt;(這個view for testing用)&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=left;" parent="1" vertex="1">
+        <mxCell id="ggczQ8R7zVc78r3qwQfg-11" value="&lt;span&gt;has clientId user role?&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- iamsmart.portal_online_service_client_user_role&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="964.2874999999999" y="380" width="325" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ggczQ8R7zVc78r3qwQfg-12" value="&lt;span&gt;Nothing&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -260,7 +260,7 @@
         <mxCell id="3dLhYdu3cuJutTxXhPSu-127" value="" style="group;fillColor=#00C3FF;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-50" y="950" width="340" height="465" as="geometry" />
         </mxCell>
-        <mxCell id="ikDHi0NmjfAgZXKBg_fg-6" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="3dLhYdu3cuJutTxXhPSu-127" source="3dLhYdu3cuJutTxXhPSu-129" target="3dLhYdu3cuJutTxXhPSu-131">
+        <mxCell id="ikDHi0NmjfAgZXKBg_fg-6" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" parent="3dLhYdu3cuJutTxXhPSu-127" source="3dLhYdu3cuJutTxXhPSu-129" target="3dLhYdu3cuJutTxXhPSu-131" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3dLhYdu3cuJutTxXhPSu-129" value="&lt;div style=&quot;font-family: Verdana; text-align: left;&quot;&gt;&lt;b&gt;- PROD_ENV_APPROVER&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana; text-align: left;&quot;&gt;&lt;b&gt;- PROD_ENV_MGR&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana; text-align: left;&quot;&gt;&lt;b&gt;- PROD_ENV_SUPPORT&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};imageWidth=24;" parent="3dLhYdu3cuJutTxXhPSu-127" vertex="1">
@@ -316,7 +316,7 @@
             <mxPoint x="510" y="1086.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ikDHi0NmjfAgZXKBg_fg-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="ikDHi0NmjfAgZXKBg_fg-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="1450" as="sourcePoint" />
             <mxPoint x="360" y="900" as="targetPoint" />
