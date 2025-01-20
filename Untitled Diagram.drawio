@@ -79,13 +79,13 @@
         <mxCell id="ggczQ8R7zVc78r3qwQfg-10" value="Check &lt;br&gt;user group + role specific permission" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="485" y="535" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ggczQ8R7zVc78r3qwQfg-11" value="&lt;span&gt;has user group (BD/NBD provider)?&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="ggczQ8R7zVc78r3qwQfg-11" value="&lt;span&gt;has clientId user role?&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="105" y="545" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ggczQ8R7zVc78r3qwQfg-12" value="&lt;span&gt;Nothing&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="285" y="545" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ggczQ8R7zVc78r3qwQfg-13" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ggczQ8R7zVc78r3qwQfg-11" target="ggczQ8R7zVc78r3qwQfg-15">
+        <mxCell id="ggczQ8R7zVc78r3qwQfg-13" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ggczQ8R7zVc78r3qwQfg-11" target="ggczQ8R7zVc78r3qwQfg-16">
           <mxGeometry x="-0.2614" y="-13" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="175" y="685" as="targetPoint" />
@@ -96,26 +96,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ggczQ8R7zVc78r3qwQfg-15" value="&lt;span&gt;has related support role?&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="105" y="685" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ggczQ8R7zVc78r3qwQfg-16" value="Check &lt;br&gt;user group + role specific permission" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="825" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ggczQ8R7zVc78r3qwQfg-17" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1" target="ggczQ8R7zVc78r3qwQfg-16">
-          <mxGeometry x="-0.2614" y="-13" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="175" y="745" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ggczQ8R7zVc78r3qwQfg-18" value="&lt;span&gt;Nothing&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="285" y="685" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ggczQ8R7zVc78r3qwQfg-19" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1" target="ggczQ8R7zVc78r3qwQfg-18">
-          <mxGeometry x="-0.1294" y="17" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="245" y="715" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="ggczQ8R7zVc78r3qwQfg-16" value="Check role specific permission" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ggczQ8R7zVc78r3qwQfg-20" value="Support Team" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="795" y="360" width="140" height="30" as="geometry" />
